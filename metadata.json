@@ -1,0 +1,7 @@
+{
+  "name": "صندوق ووکامرس",
+  "description": "سیستم جامع فروش حضوری (POS)، صندوق مکانیزه و حسابداری متصل به فروشگاه اینترنتی ووکامرس با پشتیبانی کامل از زبان فارسی و تقویم جلالی/شمسی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
